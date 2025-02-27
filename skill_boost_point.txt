@@ -1,0 +1,43 @@
+﻿1 699.5185499858395 8f
+15 349.96156491483583 12f
+35 600.3964882469553 15f
+40 899.1787029170205 8f
+50 2880.203908241291 2s4f
+55 1800.1274426508069 1s25f
+65 839.8143912162601  12f
+70 1000.2317139105584 14f
+一觉 2102.8037383177566 53f
+二觉 3504.6728971962616 1s22f
+
+地面
+a1 200.50977060322853 12f 207
+a2 838.855848201643 33f 700
+a3 723.591050693854 26f 725
+a4 998.300764655904 10f 1140
+
+打断 16f
+
+空中
+下砸 700.9345794392523
+a1 201.07618238459358
+a2 839.70546587369
+a3 722.175021240442
+a4 998.300764655904
+
+hit cnt:{total: last: present:}
+time_interval: {last: present:}
+boost_point_interval: {last: present:}
+
+{
+    name: str, 
+    base_rate:int,
+    rate_per_level:int,
+    add_level:int,
+    max_cooltime: float,
+    present_cooltime:float, 
+    cost: int, 
+    boost_points: int, 
+    hit_cnt:int,
+    special_points_cost:float,
+    除去5技能是6.66，其他都是10 觉醒是14
+}

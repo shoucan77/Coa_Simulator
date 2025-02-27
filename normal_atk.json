@@ -1,0 +1,37 @@
+﻿{
+    "A1":
+    {
+        "damage_rate":207,
+        "boost_points":200,
+        "cost":0.4,
+        "hit_cnt":1
+    },
+    "A2":
+    {
+        "damage_rate":700,
+        "boost_points":840,
+        "cost":1.1,
+        "hit_cnt":3
+    },
+    "A3":
+    {
+        "damage_rate":725,
+        "boost_points":725,
+        "cost":0.8666,
+        "hit_cnt":4
+    },
+    "A4":
+    {
+        "damage_rate":1140,
+        "boost_points":1000,
+        "cost":0.3333,
+        "hit_cnt":10
+    },
+    "break":
+    {
+        "damage_rate":0,
+        "boost_points":0,
+        "cost":0.6,
+        "hit_cnt":0
+    }
+}

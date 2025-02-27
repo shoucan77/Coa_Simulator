@@ -1,0 +1,1056 @@
+{
+    "normal_equipments":
+    {
+        "weapon":
+        {
+            "weapon_final": {
+                "base_attribute": {
+                    "atk": 1000,
+                    "strength": 550,
+                    "vitality": 440,
+                    "agility": 330
+                },
+                "universal_attribute": {
+                    "crit_rate": 11,
+                    "crit_damage": 15,
+                    "element_strength": 32,
+                    "atk_rate": 6,
+                    "additional_damage": 15,
+                    "final_damage":6
+                }
+            },
+            "weapon_final_plus":
+            {
+                "base_attribute": {
+                    "atk": 1100,
+                    "strength": 600,
+                    "vitality": 480,
+                    "agility": 360
+                },
+                "universal_attribute": {
+                    "crit_rate": 11,
+                    "crit_damage": 17,
+                    "element_strength": 35,
+                    "atk_rate": 8,
+                    "additional_damage": 15,
+                    "final_damage":8
+                },
+                "additional_attribute":
+                {
+                    "crit_rate":1,
+                    "crit_damage":4
+                }
+
+            },
+            "weapon_god":
+            {
+                "base_attribute": {
+                    "atk": 1100,
+                    "strength": 600,
+                    "vitality": 480,
+                    "agility": 360
+                },
+                "universal_attribute": {
+                    "crit_rate": 11,
+                    "crit_damage": 20,
+                    "element_strength": 38,
+                    "atk_rate": 10,
+                    "additional_damage": 23,
+                    "final_damage":11,
+                    "boss_damage":6
+                },
+                "additional_attribute":
+                {
+                    "crit_rate":1,
+                    "crit_damage":4
+                }
+
+            }
+        },
+        "Helmet": {
+            "Helmet_DieWu": {
+                "base_attribute": {
+                    "def": 480,
+                    "strength": 234,
+                    "agility": 182
+                },
+                "universal_attribute": {
+                    "element_strength": 20,
+                    "final_damage": 12,
+                    "atk_rate": 8
+                }
+            }
+        },
+        "Clothes": {
+            "Clothes_DieWu": {
+                "base_attribute": {
+                    "def": 600,
+                    "strength": 286,
+                    "vitality": 494
+                },
+                "universal_attribute": {
+                    "final_damage": 7.0,
+                    "crit_damage": 19.0,
+                    "crit_rate": 5.0
+                }
+            }
+        },
+        "Trousers": {
+            "Trousers_DieWu": {
+                "base_attribute": {
+                    "def": 600,
+                    "strength": 286,
+                    "vitality": 494
+                },
+                "universal_attribute": {
+                    "element_strength": 23.0,
+                    "boss_damage": 8.0,
+                    "atk_speed": 50.0,
+                    "cool_speed": 50.0
+                }
+            }
+        },
+        "Gloves": {
+            "Gloves_DieWu": {
+                "base_attribute": {
+                    "def": 360,
+                    "strength": 182,
+                    "agility": 156
+                },
+                "universal_attribute": {
+                    "penetrate": 18,
+                    "boss_damage": 9.5,
+                    "strength": 160
+                }
+            }
+        },
+        "Shoes": {
+            "Shoes_DieWu": {
+                "base_attribute": {
+                    "def": 360,
+                    "strength": 182,
+                    "agility": 156
+                },
+                "universal_attribute": {
+                    "skill_damage": 13,
+                    "strength_rate": 11,
+                    "element_resistance": 18
+                }
+            }
+        },
+        "Nicklace":
+        {
+            "Nicklace_ShengHui":{
+                "base_attribute": {
+                    "def": 500,
+                    "strength": 330,
+                    "vitality": 330
+                },
+                "universal_attribute": {
+                    "normal_damage": 5.0,
+                    "skill_damage": 5.0,
+                    "element_strength": 20.0,
+                    "cool_speed": 50.0
+                }
+            },
+            "Nicklace_SiMang":{
+                "base_attribute": {
+                    "def":550,
+                    "strength":360,
+                    "vitality":360
+                },
+                "universal_attribute": {
+                "normal_damage":12,
+                "skill_damage":12,
+                "element_strength":28,
+                "boost_charge_rate":5
+                }
+            },
+            "Nicklace_SiMangPlus":{
+                "base_attribute": {
+                    "def":600,
+                    "strength":390,
+                    "vitality":390
+                },
+                "universal_attribute": {
+                "normal_damage":14.5,
+                "skill_damage":14.5,
+                "element_strength":32,
+                "boost_charge_rate":5
+                }
+            },
+            "Nicklace_YanMie":{
+                "base_attribute": {
+                    "def": 550,
+                    "strength": 360,
+                    "vitality": 360
+                },
+                "universal_attribute": {
+                    "normal_damage": 14,
+                    "skill_damage": 14,
+                    "element_strength": 28,
+                    "boss_damage": 12
+                }
+            },
+            "Nicklace_YanMiePlus":{
+                "base_attribute": {
+                    "def": 600,
+                    "strength": 390,
+                    "vitality": 390
+                },
+                "universal_attribute": {
+                    "normal_damage": 16.5,
+                    "skill_damage": 16.5,
+                    "element_strength": 31,
+                    "boss_damage": 14.5
+                }
+            },
+            "Nicklace_YuJin":{
+                "base_attribute": {
+                    "def": 550,
+                    "strength": 360,
+                    "vitality": 360
+                },
+                "universal_attribute": {
+                    "element_strength": 22,
+                    "skill_damage": 12,
+                    "normal_damage": 12,
+                    "final_damage":10,
+                    "boss_damage":7,
+                    "condition_damage":10,
+                    "crit_rate":5,
+                    "crit_damage":16
+                }
+            },
+            "Nicklace_YuJinPlus":{
+                "base_attribute": {
+                    "def": 600,
+                    "strength": 390,
+                    "vitality": 390
+                },
+                "universal_attribute": {
+                    "element_strength": 26,
+                    "skill_damage": 13.5,
+                    "normal_damage": 13.5,
+                    "final_damage":12,
+                    "boss_damage":7,
+                    "condition_damage":10,
+                    "crit_rate":5,
+                    "crit_damage":16
+                }
+            },
+            "Nicklace_YuZhu":
+            {
+                "base_attribute":{
+                    "def": 550,
+                    "strength": 360,
+                    "vitality": 360
+                },
+                "universal_attribute":{
+                    "element_strength":22,
+                    "normal_damage":13,
+                    "skill_damage":13,
+                    "atk_rate":8,
+                    "boss_damage":12
+                }
+            },
+            "Nicklace_YuZhuPlus":
+            {
+                "base_attribute": {
+                    "def": 600,
+                    "strength": 390,
+                    "vitality": 390
+                },
+                "universal_attribute": {
+                    "element_strength": 26,
+                    "normal_damage": 16,
+                    "skill_damage": 16,
+                    "atk_rate": 10,
+                    "boss_damage": 13.5
+                }
+            }
+        },
+        "Wristband":
+        {
+            "Wristband_ShengHui":
+            {
+                "base_attribute": {
+                    "def": 500,
+                    "strength": 330,
+                    "vitality": 330
+                },
+                "universal_attribute": {
+                    "crit_rate": 5,
+                    "boss_damage": 6,
+                    "boost_charge_rate": 8
+                }
+            },
+            "Wristband_SiMang":
+            {
+                "base_attribute": {
+                    "def": 550,
+                    "strength": 360,
+                    "vitality": 360
+                },
+                "universal_attribute": {
+                    "crit_rate": 6,
+                    "boss_damage": 11,
+                    "element_strength": 20,
+                    "boost_charge_rate": 5
+                }
+            },
+            "Wristband_SiMangPlus":
+            {
+                "base_attribute": {
+                    "def": 600,
+                    "strength": 390,
+                    "vitality": 390
+                },
+                "universal_attribute": {
+                    "crit_rate": 6,
+                    "boss_damage": 13,
+                    "element_strength": 25,
+                    "boost_charge_rate": 5
+                }
+            },
+            "Wristband_YanMie":
+            {
+                "base_attribute": {
+                    "def": 550,
+                    "strength": 360,
+                    "vitality": 360
+                },
+                "universal_attribute": {
+                    "crit_rate": 6,
+                    "boss_damage": 24,
+                    "crit_damage": 18
+                }
+            },
+            "Wristband_YanMiePlus":
+            {
+                "base_attribute": {
+                    "def": 600,
+                    "strength": 390,
+                    "vitality": 390
+                },
+                "universal_attribute": {
+                    "crit_rate": 6,
+                    "boss_damage": 28,
+                    "crit_damage": 23
+                }
+            },
+            "Wristband_YuJin":
+            {
+                "base_attribute": {
+                    "def": 550,
+                    "strength": 360,
+                    "vitality": 360
+                },
+                "universal_attribute": {
+                    "crit_rate": 7,
+                    "boss_damage": 16,
+                    "crit_damage": 18
+                }
+            },
+            "Wristband_YuJinPlus":
+            {
+                "base_attribute": {
+                    "def": 600,
+                    "strength": 390,
+                    "vitality": 390
+                },
+                "universal_attribute": {
+                    "crit_rate": 7,
+                    "boss_damage": 21,
+                    "crit_damage": 22
+                }
+            },
+            "Wristband_YuZhu":
+            {
+                "base_attribute": {
+                    "def": 550,
+                    "strength": 360,
+                    "vitality": 360
+                },
+                "universal_attribute": {
+                    "crit_rate": 6,
+                    "crit_damage": 18,
+                    "element_strength": 22,
+                    "skill_damage":13,
+                    "normal_damage":13
+                }
+            },
+            "Wristband_YuZhuPlus":
+            {
+                "base_attribute": {
+                    "def": 600,
+                    "strength": 390,
+                    "vitality": 390
+                },
+                "universal_attribute": {
+                    "crit_rate": 6,
+                    "crit_damage": 22,
+                    "element_strength": 24,
+                    "skill_damage":14.5,
+                    "normal_damage":14.5
+                }
+            }
+        },
+        "Ring":
+        {
+            "Ring_ShengHui":
+            {
+                "base_attribute": {
+                    "def": 500,
+                    "agility": 330,
+                    "vitality": 330
+                },
+                "universal_attribute": {
+                    "final_damage": 8,
+                    "crit_damage": 11,
+                    "boost_charge_rate": 6,
+                    "atk_speed":40
+                }
+            },
+            "Ring_SiMang":
+            {
+                "base_attribute": {
+                    "def": 550,
+                    "vitality": 360,
+                    "agility":360
+                },
+                "universal_attribute": {
+                    "final_damage": 13,
+                    "crit_damage": 20,
+                    "penetrate": 8,
+                    "boost_charge_rate": 5
+                }
+            },
+            "Ring_SiMangPlus":
+            {
+                "base_attribute": {
+                    "def": 600,
+                    "vitality": 390,
+                    "agility": 390
+                },
+                "universal_attribute": {
+                    "final_damage": 15,
+                    "crit_damage": 23,
+                    "penetrate": 9,
+                    "boost_charge_rate": 5
+                }
+            },
+            "Ring_YanMie":
+            {
+                "base_attribute": {
+                    "def": 550,
+                    "vitality": 360,
+                    "agility": 360
+                },
+                "universal_attribute": {
+                    "final_damage": 15,
+                    "crit_damage": 24,
+                    "penetrate": 8
+                }
+            },
+            "Ring_YanMiePlus":
+            {
+                "base_attribute": {
+                    "def": 600,
+                    "vitality": 390,
+                    "agility": 390
+                },
+                "universal_attribute": {
+                    "final_damage": 16,
+                    "crit_damage": 25,
+                    "penetrate": 9
+                }
+            },
+            "Ring_YuJin":
+            {
+                "base_attribute": {
+                    "def": 550,
+                    "vitality": 360,
+                    "agility": 360
+                },
+                "universal_attribute": {
+                    "final_damage": 10,
+                    "crit_damage": 18,
+                    "penetrate": 6,
+                    "element_strength": 25
+                }
+            },
+            "Ring_YuJinPlus":
+            {
+                "base_attribute": {
+                    "def": 600,
+                    "vitality": 390,
+                    "agility": 390
+                },
+                "universal_attribute": {
+                    "final_damage": 12,
+                    "crit_damage": 21,
+                    "penetrate": 7,
+                    "element_strength": 30
+                }
+            },
+            "Ring_YuZhu":
+            {
+                "base_attribute": {
+                    "def": 550,
+                    "vitality": 360,
+                    "agility": 360
+                },
+                "universal_attribute": {
+                    "final_damage": 10,
+                    "element_strength": 22,
+                    "boss_damage":10
+                }
+            },
+            "Ring_YuZhuPlus":
+            {
+                "base_attribute": {
+                    "def": 600,
+                    "vitality": 390,
+                    "agility": 390
+                },
+                "universal_attribute": {
+                    "final_damage": 13,
+                    "element_strength": 24,
+                    "boss_damage":11.5
+                }
+            }
+        },
+        "Amulet":
+        {
+            "Amulet_ShengHui":
+            {
+                "base_attribute": {
+                    "strength": 264,
+                    "agility": 264,
+                    "vitality": 264
+                },
+                "universal_attribute": {
+                    "element_strength": 13,
+                    "strength_rate": 9,
+                    "boosting_damage": 6
+                }
+            },
+            "Amulet_SiMang":
+            {
+                "base_attribute": {
+                    "strength":288,
+                    "agility": 288,
+                    "vitality": 288
+                },
+                "universal_attribute": {
+                    "element_strength": 20,
+                    "strength_rate": 12,
+                    "boosting_damage": 8,
+                    "cool_speed":40
+                }
+            },
+            "Amulet_SiMangPlus": {
+                "base_attribute": {
+                    "strength": 312,
+                    "agility": 312,
+                    "vitality": 312
+                },
+                "universal_attribute": {
+                    "element_strength": 26,
+                    "strength_rate": 14,
+                    "boosting_damage": 9,
+                    "cool_speed": 40
+                }
+            },
+            "Amulet_YanMie":
+            {
+                "base_attribute": {
+                    "strength": 288,
+                    "agility": 288,
+                    "vitality": 288
+                },
+                "universal_attribute": {
+                    "element_strength": 25,
+                    "strength_rate": 13,
+                    "boosting_damage": 8
+                }
+            },
+            "Amulet_YanMiePlus":
+            {
+                "base_attribute": {
+                    "strength": 312,
+                    "agility": 312,
+                    "vitality": 312
+                },
+                "universal_attribute": {
+                    "element_strength": 27,
+                    "strength_rate": 14,
+                    "boosting_damage": 8
+                }
+            },
+            "Amulet_YuJin":
+            {
+                "base_attribute": {
+                    "strength": 288,
+                    "agility": 288,
+                    "vitality": 288
+                },
+                "universal_attribute": {
+                    "element_strength": 20,
+                    "strength_rate": 12,
+                    "boosting_damage": 10,
+                    "cool_speed": 40,
+                    "skill_damage":9,
+                    "normal_damage":9
+                }
+            },
+            "Amulet_YuJinPlus":
+            {
+                "base_attribute": {
+                    "strength": 312,
+                    "agility": 312,
+                    "vitality": 312
+                },
+                "universal_attribute": {
+                    "element_strength": 23,
+                    "strength_rate": 15,
+                    "boosting_damage": 10,
+                    "cool_speed": 40,
+                    "skill_damage":13,
+                    "normal_damage":13
+                }
+            },
+            "Amulet_YuZhu":
+            {
+                "base_attribute": {
+                    "strength": 288,
+                    "agility": 288,
+                    "vitality": 288
+                },
+                "universal_attribute": {
+                    "boss_damage": 10,
+                    "final_damage": 11,
+                    "strength_rate": 9,
+                    "cool_speed": 30,
+                    "atk":40
+                }
+            },
+            "Amulet_YuZhuPlus":
+            {
+                "base_attribute": {
+                    "strength": 312,
+                    "agility": 312,
+                    "vitality": 312
+                },
+                "universal_attribute": {
+                    "boss_damage": 12,
+                    "final_damage": 13.5,
+                    "strength_rate": 10,
+                    "cool_speed": 30,
+                    "atk":50
+                }
+            }
+        },
+        "Seal":
+        {
+            "Seal_ShengHui":
+            {
+                "base_attribute": {
+                    "strength": 264,
+                    "agility": 264,
+                    "vitality": 264
+                },
+                "universal_attribute": {
+                    "element_strength": 19,
+                    "boss_damage": 4,
+                    "boosting_damage": 9,
+                    "boost_charge_rate":30
+                }
+            },
+            "Seal_SiMang":
+            {
+                "base_attribute": {
+                    "strength":288,
+                    "agility": 288,
+                    "vitality": 288
+                },
+                "universal_attribute": {
+                    "element_strength": 25,
+                    "boss_damage": 7,
+                    "atk_rate": 6,
+                    "cool_speed":40
+                }
+            },
+            "Seal_SiMangPlus":
+            {
+                "base_attribute": {
+                    "strength": 312,
+                    "agility": 312,
+                    "vitality": 312
+                },
+                "universal_attribute": {
+                    "element_strength": 29,
+                    "boss_damage": 9,
+                    "atk_rate": 8,
+                    "cool_speed": 40
+                }
+            },
+            "Seal_YanMie":
+            {
+                "base_attribute": {
+                    "strength": 288,
+                    "agility": 288,
+                    "vitality": 288
+                },
+                "universal_attribute": {
+                    "element_strength": 26,
+                    "boss_damage": 10,
+                    "atk_rate": 9
+                }
+            },
+            "Seal_YanMiePlus":
+            {
+                "base_attribute": {
+                    "strength": 312,
+                    "agility": 312,
+                    "vitality": 312
+                },
+                "universal_attribute": {
+                    "element_strength": 28,
+                    "boss_damage": 11,
+                    "atk_rate": 10
+                }
+            },
+            "Seal_YuJin":
+            {
+                "base_attribute": {
+                    "strength": 288,
+                    "agility": 288,
+                    "vitality": 288
+                },
+                "universal_attribute": {
+                    "element_strength": 22,
+                    "boss_damage": 16,
+                    "atk_rate": 8,
+                    "cool_speed": 40
+                }
+            },
+            "Seal_YuJinPlus":
+            {
+                "base_attribute": {
+                    "strength": 312,
+                    "agility": 312,
+                    "vitality": 312
+                },
+                "universal_attribute": {
+                    "element_strength": 26,
+                    "boss_damage": 21,
+                    "atk_rate": 9,
+                    "cool_speed": 40
+                }
+            },
+            "Seal_YuZhu":
+            {
+                "base_attribute": {
+                    "strength": 288,
+                    "agility": 288,
+                    "vitality": 288
+                },
+                "universal_attribute": {
+                    "boss_damage": 21,
+                    "strength_rate": 9,
+                    "cool_speed": 80,
+                    "atk_speed":50
+                },
+                "speacial":
+                {
+                    "crit_damage":19.8,
+                    "final_damage":7.7
+                }
+            },
+            "Seal_YuZhuPlus":
+            {
+                "base_attribute": {
+                    "strength": 312,
+                    "agility": 312,
+                    "vitality": 312
+                },
+                "universal_attribute": {
+                    "boss_damage": 25.5,
+                    "strength_rate": 10,
+                    "cool_speed": 80,
+                    "atk_speed":50
+                },
+                "speacial":
+                {
+                    "crit_damage":19.8,
+                    "final_damage":7.7
+                }
+            }
+        },
+        "treasure":
+        {
+            "final":{}
+        }
+    },
+    "Suit_effects":
+    {
+        "Suit2_armor":
+        {
+            "DieWu":{
+            "skill_damage":7,
+            "normal_damage":7,
+            "element_strength":32,
+            "final_damage":10,
+            "atk_speed":30,
+            "cool_speed":30
+            }
+        },
+        "Suit3_armor":
+        {
+            "DieWu":{
+            "final_damage":8,
+            "boss_damage":10,
+            "crit_damage":20
+            }
+        },
+        "Suit5_armor":
+        {
+            "DieWu":{
+            "skill_damage":9,
+            "normal_damage":9,
+            "element_strength":23
+            }
+        },
+        "Suit3_jewelry":
+        {
+            "ShengHui":{
+
+            }
+        },
+        "Suit5_jewelry":
+        {
+            "ShengHui":{
+                "final_damage":5,
+                "skill_damage":7,
+                "normal_damage":7
+            },
+            "SiMang":
+            {
+                "final_damage":12,
+                "skill_damage":15,
+                "normal_damage":15
+            },
+            "SiMangPlus":
+            {
+                "final_damage":15,
+                "skill_damage":18,
+                "normal_damage":18,
+                "boost_charge_rate":10
+            },
+            "YanMie":
+            {
+                "final_damage":7,
+                "skill_damage":8,
+                "normal_damage":8
+            },
+            "YanMiePlus":
+            {
+                "final_damage":13,
+                "skill_damage":14,
+                "normal_damage":14
+            },
+            "YuJin":
+            {
+                "final_damage":6,
+                "skill_damage":7,
+                "normal_damage":7,
+                "element_strength":27,
+                "boss_damage":8,
+                "element_damage":8
+            },
+            "YuJinPlus":
+            {
+                "final_damage":12,
+                "skill_damage":11,
+                "normal_damage":11,
+                "element_strength":32,
+                "boss_damage":10,
+                "element_damage":10
+            },
+            "YuZhu":
+            {
+                "crit_damage":5.94,
+                "final_damage":9.31,
+                "skill_damage":8,
+                "normal_damage":8
+            },
+            "YuZhuPlus":
+            {
+                "crit_damage":5.94,
+                "final_damage":14.31,
+                "skill_damage":13,
+                "normal_damage":13,
+                "element_strength":15,
+                "atk_speed":20
+            }
+        },
+        "Suit2_ornament":
+        {
+            "Suit2_ornament_new":
+            {
+                "strength":40,
+                "final_damage":6
+            }
+        },
+        "Suit3_ornament":
+        {
+            "Suit3_ornament_new":
+            {
+                "hp":300,
+                "crit_rate":4,
+                "crit_damage":12
+            }
+        },
+        "Suit5_ornament":
+        {
+            "Suit5_ornament_new":
+            {
+                "hp":800,
+                "element_strength":20,
+                "element_resistance":10,
+                "final_damage":7
+            }
+        }
+
+
+
+    },
+    "ornament": {
+
+        "ornament_weapon":
+        {
+            "ornament_weapon_2024":
+            {
+            "strength":80,
+            "vitality":80,
+            "agility":80,
+            "atk_rate":5,
+            "penetrate":7,
+            "final_damage":7,
+            "element_strength":10,
+            "atk_speed":30,
+            "cool_speed":30
+            },
+            "ornament_weapon_2025":
+            {
+                "strength":95,
+                "vitality":95,
+                "agility":95,
+                "atk_rate":7,
+                "penetrate":8,
+                "boss_damage":3,
+                "final_damage":7.5,
+                "element_strength":15,
+                "cool_speed":30,
+                "atk_speed":30
+            }
+        },
+        "ornament_designation": {
+            "ornament_designation_3w":
+            {
+                "strength":80,
+                "vitality":80,
+                "agility":80,
+                "atk":25,
+                "crit_rate":4,
+                "crit_damage":8,
+                "element_strength":12,
+                "final_damage":11
+            },
+            "ornament_designation_2025": {
+                "strength":90,
+                "vitality":90,
+                "agility":90,
+                "atk":30,
+                "crit_rate":4,
+                "crit_damage":10,
+                "element_strength":19.6,
+                "final_damage":14.8
+            }
+        },
+        "ornament_head": {
+            "ornament_head_new":
+            {
+                "strength":50,
+                "vitality":50,
+                "agility":50,
+                "crit_rate":4,
+                "crit_damage":3
+            }
+        },
+        "ornament_clothes": {
+        "ornament_clothes_new":{
+            "strength":90,
+            "vitality":90,
+            "agility":90,
+            "hp":700
+            }
+        },
+        "ornament_mask": {
+            "ornament_mask_new":
+            {
+                "strength":50,
+                "vitality":50,
+                "agility":50
+            }
+        },
+        "ornament_acc":
+        {
+            "ornament_acc_new":
+            {
+                "strength":50,
+                "vitality":50,
+                "agility":50,
+                "atk_speed":40,
+                "cool_speed":40
+            }
+        },
+        "ornament_badge": {
+            "ornament_badge_new":
+            {
+                "strength":50,
+                "vitality":50,
+                "agility":50,
+                "element_strength":9,
+                "element_resistance":9,
+                "boost_charge_rate":4
+            }
+        },
+        "ornament_aureole":
+        {
+            "ornament_aureole_2024":
+            {
+                "atk":25,
+                "element_strength":20,
+                "element_resistance":5,
+                "boss_damage":5,
+                "final_damage":13
+            }
+        },
+        "ornament_footprint":
+        {
+            "ornament_footprint_2024":
+            {
+                "agility":80,
+                "strength":80,
+                "vitality":80,
+                "crit_rate":4,
+                "crit_damage":8,
+                "skill_damage":10,
+                "element_strength":15
+            }
+        }
+    }
+}

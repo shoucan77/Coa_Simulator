@@ -1,0 +1,26 @@
+﻿{
+    "weapon":
+    {
+        "inscription1":"卓9",
+        "inscription2":"不破8",
+        "inscription3":"痛击4"
+    },
+    "clothes":
+    {
+        "inscription1":"不凡6",
+        "inscription2":"高阶6",
+        "inscription3":"淬火2"
+    },
+    "protective_clothes":
+    {
+        "inscription1":"迅捷3",
+        "inscription2":"超然9",
+        "inscription3":"适应9"
+    },
+    "jewelry_clothes":
+    {
+        "inscription1":"属性9",
+        "inscription2":"耐力9",
+        "inscription3":"挑战3"
+    }
+}
