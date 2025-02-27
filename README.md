@@ -7,7 +7,7 @@
 - 实现伤害公式的动态解析与多段式计算
 - 达成95.6%的实战数值拟合度
 - 模块化系统设计
-- 采用分层架构拆分为战斗管理（Damage Dealer）、装备管理（Equipment Vault）、角色成长（Character Progression）等6大子系统
+- 采用分层架构拆分为战斗管理（battle）、装备管理（Equip management）、角色成长（Character）等几大子系统
 - 设计可插拔式Buff效果处理
 ## 开发成果
 - 完成核心计算相关模块开发（代码量约3000+行）
